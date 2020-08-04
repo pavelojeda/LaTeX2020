@@ -5,8 +5,30 @@ Para la primera clase deben tener descargados e instalados los siguientes elemen
   * Distribución de **LaTeX**
      - Recomendada: La puedes descargar [aquí](http://linorg.usp.br/CTAN/systems/windows/protext/)
      - Estandar: Puedes dacargarlo [aquí](http://linorg.usp.br/CTAN/systems/windows/protext/)
-     - Recomendada Para MAC: Descarga [aquí](https://tug.org/mactex/)
+     - Recomendada Para Mac: Descarga [aquí](https://tug.org/mactex/)
   * Editor de **LaTeX**
-     - Usaremos TEXstudio, puedes descargarlo para Windows [aquí](https://github.com/texstudio-org/texstudio/releases/download/2.12.22/texstudio-2.12.22-win-qt5.exe), la versión para MAC puedes descargarla [aquí](https://github.com/texstudio-org/texstudio/releases/download/2.12.22/texstudio-2.12.22-osx.dmg)
+     - Usaremos TEXstudio,  para Windows puedes descargarlo [aquí](https://github.com/texstudio-org/texstudio/releases/download/2.12.22/texstudio-2.12.22-win-qt5.exe), la versión para MAC puedes descargarla [aquí](https://github.com/texstudio-org/texstudio/releases/download/2.12.22/texstudio-2.12.22-osx.dmg)
+     
+     > Las sesiones las haremos mediantes Google Meets 
     
-
+### Pasos para la instalación
+ 1. Instala la distribución de LaTeX de acuerdo a tu sistema operativo (Windows/Mac), si descaraste la versión *recomendada* para Windows... ten paciencia, la instalación demora un poco.
+ 2. Si y sólo si has completado la instalación en (1). Instala el TEXstudio.
+ 
+ Si tienes alguna complicación/consulta en el proceso de instalación puedes escribirme a pavel.ojeda@outllook.com
+ 
+ 
+ ## Sesiones
+ El link de la sesión del día será colgado a través de esta plataforma. Estará habilitada 10 min antes del inicio de la sesión.
+ 
+ #### [Has CLICK aquí para ingresar a la sesión del día]()
+ 
+ 
+ ## Repostorio
+ 
+ El siguiente LINK te llevará al repositorio del curso. El mismo contiene los archivos utilizados durante las sesiones y material adicional.
+ 
+ ## Tareas 
+ 
+ Para envíar la práctica del día has [CLICK]() aquí.
+ 
