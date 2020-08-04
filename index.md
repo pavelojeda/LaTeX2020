@@ -16,6 +16,7 @@ Para la primera clase deben tener descargados e instalados los siguientes elemen
      > Para la sesiones utilizaremos Google Meets 
     
 ### Pasos para la instalación
+
  1. Instala la distribución de LaTeX en función al sistema operativo de tu computador (Windows/Mac). Si descargaste la versión *recomendada* para Windows... ten paciencia, la instalación demora un poco.
  2. Si y sólo si has completado la instalación en (1). Instala el TEXstudio.
  
@@ -25,9 +26,10 @@ Para la primera clase deben tener descargados e instalados los siguientes elemen
  
   
  ## Sesiones
+ 
  El link de la sesión del día será colgado en esta plataforma. La sala virtual estará habilitada 10 min antes del inicio de la sesión del día.
  
- #### [Has CLICK aquí para ingresar a la sesión del día]()
+ #### Has CLICK aquí para ingresar a la sesión del día
  
  
  ## Repostorio
