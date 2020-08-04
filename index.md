@@ -11,7 +11,7 @@ Para la primera clase deben tener descargados e instalados los siguientes elemen
   * Editor de **LaTeX**
      - Usaremos TEXstudio,  para Windows puedes descargarlo [aquí](https://github.com/texstudio-org/texstudio/releases/download/2.12.22/texstudio-2.12.22-win-qt5.exe), la versión para MAC puedes descargarla [aquí](https://github.com/texstudio-org/texstudio/releases/download/2.12.22/texstudio-2.12.22-osx.dmg)
      
-     > Las sesiones las haremos mediantes Google Meets 
+     > Para la sesiones utilizaremos Google Meets 
     
 ### Pasos para la instalación
  1. Instala la distribución de LaTeX de acuerdo a tu sistema operativo (Windows/Mac), si descaraste la versión *recomendada* para Windows... ten paciencia, la instalación demora un poco.
