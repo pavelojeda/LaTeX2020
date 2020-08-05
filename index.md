@@ -1,6 +1,5 @@
-Sitio y repositorio: Curso de redacción de textos con LaTeX
 
-Esta página no es un *sitio oficial de la U.C.B.* los contenidos y el mantenimiento de estos es responsabilidad exclusiva del administrador del repositorio
+                          > Esta página no es un *sitio oficial de la U.C.B.* los contenidos y el mantenimiento de estos es responsabilidad exclusiva del administrador del repositorio
 
 # Anuncios
 Para la primera clase deben tener descargados e instalados los siguientes elementos:
