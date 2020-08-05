@@ -8,7 +8,7 @@ Para la primera clase deben tener descargados e instalados los siguientes elemen
      - Estandar: Puedes dacargarla [aquí](http://linorg.usp.br/CTAN/systems/windows/protext/)
      - Recomendada Para Mac: Descarga [aquí](https://tug.org/mactex/)
   * Editor de **LaTeX**
-     - Usaremos TEXstudio,  para Windows puedes descargarlo [aquí](https://github.com/texstudio-org/texstudio/releases/download/2.12.22/texstudio-2.12.22-win-qt5.exe), la versión para MAC puedes descargarla [aquí](https://github.com/texstudio-org/texstudio/releases/download/2.12.22/texstudio-2.12.22-osx.dmg)
+     - Usaremos TEXstudio:  para *Windows* puedes hacer la descarga [aquí](https://github.com/texstudio-org/texstudio/releases/download/2.12.22/texstudio-2.12.22-win-qt5.exe); la versión para *MAC* descargarla [aquí](https://github.com/texstudio-org/texstudio/releases/download/2.12.22/texstudio-2.12.22-osx.dmg).
      
      
      > Para la sesiones utilizaremos Google Meets 
