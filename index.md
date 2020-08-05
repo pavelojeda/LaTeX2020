@@ -22,7 +22,7 @@ Para la primera clase deben tener descargados e instalados los siguientes elemen
  
  Las instrucciones durante la instalación en ambos casos son: Siguiente, siguiente, siguiente. (Las opciones por defecto que ofrecen los instaladores son más que suficientes.) 
  
- > Si tienes alguna complicación/consulta en el proceso de instalación puedes escribirme a pavel.ojeda@outllook.com
+    
  
   
  ## Sesiones
