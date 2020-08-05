@@ -11,6 +11,7 @@ Para la primera clase deben tener descargados e instalados los siguientes elemen
      - Usaremos TEXstudio:  para *Windows* puedes hacer la descarga [aquí](https://github.com/texstudio-org/texstudio/releases/download/2.12.22/texstudio-2.12.22-win-qt5.exe); la versión para *MAC* descargarla [aquí](https://github.com/texstudio-org/texstudio/releases/download/2.12.22/texstudio-2.12.22-osx.dmg).
      
      
+     
      > Para la sesiones utilizaremos Google Meets 
     
 ### Pasos para la instalación
