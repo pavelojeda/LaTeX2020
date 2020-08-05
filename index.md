@@ -1,6 +1,6 @@
 Sitio y repositorio: Curso de redacción de textos con LaTeX
 
-Esta página no es un *sitio oficial de la U.C.B.* los contenidos y el mantenimiento del mismo es responsabilidad exclusiva del administrador del repositorio
+Esta página no es un *sitio oficial de la U.C.B.* los contenidos y el mantenimiento de estos es responsabilidad exclusiva del administrador del repositorio
 
 # Anuncios
 Para la primera clase deben tener descargados e instalados los siguientes elementos:
@@ -12,7 +12,7 @@ Para la primera clase deben tener descargados e instalados los siguientes elemen
      - Usaremos TEXstudio,  para Windows puedes descargarlo [aquí](https://github.com/texstudio-org/texstudio/releases/download/2.12.22/texstudio-2.12.22-win-qt5.exe), la versión para MAC puedes descargarla [aquí](https://github.com/texstudio-org/texstudio/releases/download/2.12.22/texstudio-2.12.22-osx.dmg)
      
      
- > Para la sesiones utilizaremos Google Meets 
+     > Para la sesiones utilizaremos Google Meets 
     
 ### Pasos para la instalación
 
@@ -28,7 +28,7 @@ Para la primera clase deben tener descargados e instalados los siguientes elemen
  
  El link de la sesión del día será colgado en esta plataforma. La sala virtual estará habilitada 10 min antes del inicio de la sesión del día.
  
-#### Has CLICK aquí para ingresar a la sesión del día
+####  Has [CLICK]() aquí para ingresar a la sesión del día
  
  
 ## Repostorio
