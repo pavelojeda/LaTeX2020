@@ -34,7 +34,7 @@ Para la primera clase deben tener descargados e instalados los siguientes elemen
  
 ## Repostorio
  
- El siguiente LINK te llevará al repositorio del curso. El mismo contiene los archivos utilizados durante las sesiones y material adicional.
+ El siguiente [LINK](https://u.pcloud.link/publink/show?code=kZ7LwGkZSdQ73NBt7mHgSwNvhnnw9FDiKoDX) te llevará al repositorio del curso. El mismo contiene los archivos utilizados durante las sesiones y material adicional.
  
 ## Tareas 
  
