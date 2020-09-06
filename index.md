@@ -38,7 +38,7 @@ Para la primera clase deben tener descargados e instalados los siguientes elemen
  
 ## Tareas 
  
- Para envíar la práctica del día has [CLICK](https://forms.gle/8cAQAuTNtS1aSRQ5A) aquí.
+ Para envíar la práctica del día has [CLICK](https://forms.gle/qRkKgTL1UP5GfFTA7) aquí.
  
  > Ten cuidado de escribir correctamente tu correo electrónico: El almacenado de la información se lo hará en función a esa información. Gracias.
  
