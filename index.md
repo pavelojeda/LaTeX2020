@@ -29,7 +29,7 @@ Para la primera clase deben tener descargados e instalados los siguientes elemen
  
  El link de la sesión del día será colgado en esta plataforma. La sala virtual estará habilitada 10 min antes del inicio de la sesión del día.
  
-####  Has [CLICK](https://meet.google.com/ceb-rbyd-nyi) aquí para ingresar a la sesión del día
+####  Has [CLICK](https://meet.google.com/odq-eyoj-bcw) aquí para ingresar a la sesión del día
  
  
 ## Repostorio
