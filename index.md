@@ -2,18 +2,9 @@
 > **Esta página no es un *sitio oficial de la U.C.B.* los contenidos y el mantenimiento de estos es responsabilidad exclusiva del administrador del repositorio**
 
 # Anuncios
-Para la primera clase deben tener descargados e instalados los siguientes elementos:
-  * Distribución de **LaTeX**
-     - Recomendada: La puedes descargar [aquí](http://linorg.usp.br/CTAN/systems/windows/protext/)
-     - Estandar: Puedes dacargarla [aquí](http://linorg.usp.br/CTAN/systems/windows/protext/)
-     - Recomendada Para Mac: Descarga [aquí](https://tug.org/mactex/)
-     - Estandar Para Mac: Descarga [aquí](http://tug.org/cgi-bin/mactex-download/BasicTeX.pkg)
-  * Editor de **LaTeX**
-     - Usaremos TEXstudio:  para *Windows* puedes hacer la descarga [aquí](https://github.com/texstudio-org/texstudio/releases/download/2.12.22/texstudio-2.12.22-win-qt5.exe); la versión para *MAC* descargarla [aquí](https://github.com/texstudio-org/texstudio/releases/download/2.12.22/texstudio-2.12.22-osx.dmg).
-     
-     
-     
-     > Para la sesiones utilizaremos Google Meets 
+
+## ENTREGA TRABAJO FINAL
+> Para la entrega del trabajo final, haz click [AQUÍ](https://forms.gle/ctQunVVZY2GootSb8)
     
 ### Pasos para la instalación
 
